@@ -1,6 +1,6 @@
 /*****************************************
 Maximo A. Toranzo    1R1     legajo:418617
-
+https://github.com/UsualTori/Tp-5-de-inf/blob/main/Tp%20N%C2%BA5.c
 *****************************************/
 
 
